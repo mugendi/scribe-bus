@@ -8,7 +8,7 @@ Take your console logs like these:
 
 Into a web dashboard  like this:
 
-![Screenshot](__res/screenshot.PNG)
+![Screenshot](__res/screenshot-1.PNG)
 
 
 ## The Challenge
