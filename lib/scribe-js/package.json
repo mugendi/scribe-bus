@@ -1,0 +1,35 @@
+{
+  "name": "scribe-js",
+  "description": "Comprehensive logging framework with online interface",
+  "version": "2.0.4",
+  "homepage": "https://github.com/bluejamesbond/Scribe.js",
+  "keywords": [],
+  "author": {
+    "name": "Mathew Kurian",
+    "email": "MathewKurian@utexas.edu",
+    "url": "https://github.com/bluejamesbond"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bluejamesbond/Scribe.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluejamesbond/Scribe.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bluejamesbond/Scribe.js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "scribe.js",
+  "license": "MIT",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "colors": "^1.0.0",
+    "express": "^4.0.0",
+    "mkdirp": "^0.5.0",
+    "moment": "^2.8.0"
+  },
+  "readmeFilename": "README.md"
+}
